@@ -238,7 +238,7 @@ img {
 
 .navbar-brand:focus, .navbar-brand:hover {
     text-decoration: none;
-    color: #ffffff;
+    color: #E15F41;
 }
 
 .navbar-right li{
@@ -265,6 +265,7 @@ img {
 .nav > li > a:active,
 .nav > li > a:focus{
     background: none;
+    color: #E15F41;
 }
 
 .navbar-toggle .icon-bar{
@@ -325,7 +326,7 @@ img {
 /* --------- 5. Banner area css starts -----------*/
 
 .banner-area{
-    background-image: url(../images/home/home.png);
+    background-image: url(../images/home/lucas-volcano.jpg);
     background-position: center;
     -webkit-background-size:cover;
     background-size:cover;
