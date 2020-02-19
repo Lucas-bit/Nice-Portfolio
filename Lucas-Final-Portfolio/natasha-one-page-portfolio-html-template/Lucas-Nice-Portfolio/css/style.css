@@ -642,7 +642,7 @@ canvas{
 /*--------------9. Portfolio area starts-----------*/
 
 #portfolio h1 {
-    /border-left: 3px solid #E94E63;
+    border-left: 3px solid #E94E63;
     padding-left: 15px;
     font-size: 30px;
 }
