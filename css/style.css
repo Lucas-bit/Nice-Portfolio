@@ -748,6 +748,15 @@ canvas{
     font-weight: 300;
 }
 
+.built-with{
+    color: #E94E63
+}
+
+.built-with-bold{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 /*--------------Portfolio area Ends-----------*/
 
 /*------------10. Testimonial area starts ---------*/
