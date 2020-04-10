@@ -1,5 +1,5 @@
 # Nice-Portfolio
-Mobile Friendly Porfolio
+Mobile Friendly Porfolio containing resume, projects, skills, and contact information
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes:
