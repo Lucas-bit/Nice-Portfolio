@@ -20,3 +20,4 @@ To open locally on your machine open the unzipped folder in the code editor of y
 VS Code
 
 Javascript, JQuery, Bootstrap, HTML5, CSS3
+ 
