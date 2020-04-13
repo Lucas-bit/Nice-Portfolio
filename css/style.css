@@ -642,7 +642,7 @@ canvas{
 /*--------------9. Portfolio area starts-----------*/
 
 #portfolio h1 {
-    /border-left: 3px solid #E94E63;
+    border-left: 3px solid #E94E63;
     padding-left: 15px;
     font-size: 30px;
 }
@@ -678,6 +678,7 @@ canvas{
 
 .gallery-items .img img {
     width: 100%;
+    margin-bottom: 20px
 }
 
 .gallery-items:hover .img::before {
@@ -756,6 +757,44 @@ canvas{
     font-weight: bold;
     text-decoration: underline;
 }
+
+
+
+.note-taker-summary{
+    margin: 3.5%;
+    text-align: center;
+    color: #E94E63;
+}
+
+.weather-summary{
+    margin: 3.5%;
+    text-align: center;
+    color: #E94E63;
+}
+
+.burger-summary {
+    margin: 2.25%;
+    text-align: center;
+    color: #E94E63;
+}
+
+.workout-summary {
+    margin: 2%;
+    text-align: center;
+    color: #E94E63;
+}
+
+.project-summary{
+    color: white;
+    text-align: center
+}
+
+.gallery-items:hover .project-summary{
+    color: #E94E63;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
 
 /*--------------Portfolio area Ends-----------*/
 
@@ -951,7 +990,6 @@ canvas{
     display: inline-block;
     height: 40px;
     width: 40px;
-    font-size: 16px;
     color: #222222;
     -webkit-transition: 0.3s;
     -moz-transition: 0.3s;
@@ -962,6 +1000,8 @@ canvas{
     background: transparent;
     line-height: 2.5;
     text-align: center;
+    margin-left: 25px;
+    margin-bottom: 10px;
 }
 
 .contact-icon a:hover{
